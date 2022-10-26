@@ -45,17 +45,17 @@ global.psaweria = 'https://saweria.co/FangzBot' //Saweria
 global.donate = '〔 Dᴏɴᴛ ғᴏʀɢᴇᴛ Dᴏɴᴀᴛɪᴏɴ 〕\n\n››╭─〘 *Donasi* 〙\n╭╡📮: Donasi ngab jangan make │bot doang.\n┝‷✧ *Ovo:* 081352848936\n│┝‷✧ *Dana:* 081251549899\n│┝‷✧ *Gopay:* 081352848936\n│╰───···─────\n│⁺◛˖ Ingin Donasi? Chat nomor owner\n╰──────────···───╮'
 
 /*⫘⫘⫘⫘ GLOBAL NOMOR ⫘⫘⫘⫘⫘*/
-global.nomorbot = '6281352848936' //Nomor Bot mu
-global.namebot = 'Dani BOT' //Nama bot mu
-global.nameown = 'DaniXd' //Nama mu
+global.nomorbot = '6285852939370' //Nomor Bot mu
+global.namebot = 'niluh BOT' //Nama bot mu
+global.nameown = 'NiluhChan' //Nama mu
 
 /*⫘⫘⫘⫘GLOBAL FUNCTION⫘⫘⫘⫘⫘*/
 //KALAU MAGER EDIT, MENDING GAUSAH DI APA² IN. SAMA AJA//
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰' //Gausah di apa² in
 global.after = 'Bot by https://bit.ly/3QJOy9F'
 global.swo = 'https://wa.me/6288215689772'
-global.author = '                © Dani BOT By DaniXd' //Wm author
-global.botintro = 'Hallo, Kenalin saya Dani BOT Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *DaniXD* Saya di rilis pada tanggal\n🗓 ️_16/04/2022_'
+global.author = '                © Niluh BOT By Niluhjatim' //Wm author
+global.botintro = 'Hallo, Kenalin saya niluh BOT Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *DaniXD* Saya di rilis pada tanggal\n🗓 ️_16/04/2022_'
 global.sallam = '💬 Waalaikumsallam'
 global.serialimg = 'https://telegra.ph/file/eaf30ca57d5c4c2d7a6f0.jpg'
 global.jlimit = 'https://telegra.ph/file/449ce1a72312c8fcb99f6.jpg'
@@ -63,9 +63,9 @@ global.thumbEror = 'https://telegra.ph/file/430b8f1ae35c655bfee93.jpg'
 global.thumbnailCuaca = 'https://telegra.ph/file/636af9d2fb8194f4dbb94.jpg'
 /*⫘⫘⫘⫘ STAFF ⫘⫘⫘⫘⫘*/
 global.owner = [
-  ['6281348106274'], //Owner1
-  ['6281352848946'], //Owner2
-  ['6281251549899', 'DANI ! 🥶', true] //Ini buat kamu!
+  ['6285852939370'], //Owner1
+  ['6281246711289'], //Owner2
+  ['4915256954581', 'Niluh ! 🥶', true] //Ini buat kamu!
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -124,13 +124,13 @@ global.xckey = 'BOhjM2hUVn'
 
 /*⫘⫘⫘⫘ WATERMAK ⫘⫘⫘⫘⫘*/
 //GANTI JANGAN NGASAL.
-global.wm = '       「 ✘ DANI - BOT ⁩இ 」' //Wm
-global.wm2 = '➳༻❀Dani - Ganz❁ུ۪۪.;:୭̥.' //Name Wm
-global.wm3 = '✘ DANI - BOT'
+global.wm = '       「 ✘ Niluh - BOT ⁩இ 」' //Wm
+global.wm2 = '➳༻❀Niluh - Chan❁ུ۪۪.;:୭̥.' //Name Wm
+global.wm3 = '✘ Niluh - BOT'
 global.hiasan = '꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦'
 global.botdate = `🗓️️ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗪𝗔𝗞𝗧𝗨 : ${wib}`
-global.titlebot = '𝗬𝗧: DaniXD' //Ganti serah lu
+global.titlebot = '𝗬𝗧: Niluh' //Ganti serah lu
 
 /*⫘⫘⫘⫘ LOGO ⫘⫘⫘⫘⫘*/
 // INI JUGA GANTI SETERAH MU
